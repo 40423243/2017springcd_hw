@@ -4,3 +4,10 @@
 https://mdecourse.github.io/2017springcd
 
 https://mdecourse.github.io/2017springcd/blog
+
+# 40423243
+2017 Spring 協同產品設計實習課程個人連結:
+
+簡報: https://40423243.github.io/2017springcd_hw
+
+網誌: https://40423243.github.io/2017springcd_hw/blog
