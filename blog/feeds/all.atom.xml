@@ -11,9 +11,8 @@
 
 &lt;p&gt;和其他小組員討論得出:如果想要每次都自動開leo就要改路徑，但這樣Stunnel就會打不開，所以也要把Stunnel往上移
 &lt;/section&gt;&lt;/p&gt;
-&lt;p&gt;
-
-&lt;p&gt;</summary><category term="使用導引"></category></entry><entry><title>W1</title><link href="./w1.html" rel="alternate"></link><published>2017-02-26T18:20:00+08:00</published><updated>2017-02-26T18:20:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-02-26:./w1.html</id><summary type="html">&lt;section&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/206204967" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206204967"&gt;2017-03-01 17-18-15&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W1</title><link href="./w1.html" rel="alternate"></link><published>2017-02-26T18:20:00+08:00</published><updated>2017-02-26T18:20:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-02-26:./w1.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 Stunnel就是http的proxy 解決:tiny2017_700MB\data\stunnel\config\stunnel.conf拉出來 (有分號都是註記) 改ip(ipconfig /all)(443不改) proxy的例外加上自己的ip 去http://192.168.1.24/2017springvcp_hw 下載fourbar_eightbar_solvespace_vrep.7z和onelink_vrep_remoteapi_pos_vel.7z
 &lt;/section&gt;
