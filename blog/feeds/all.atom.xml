@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T09:46:00+08:00</updated><entry><title>W2</title><link href="./w2.html" rel="alternate"></link><published>2017-03-01T09:46:00+08:00</published><updated>2017-03-01T09:46:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-01:./w2.html</id><summary type="html">&lt;section&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:24:00+08:00</updated><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><published>2017-03-08T11:24:00+08:00</published><updated>2017-03-08T11:24:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-08:./w3.html</id><summary type="html">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+今天下雨還有來上課的同學們真是值得嘉許
+https://mde2a1.kmol.info
+加入:REM 取得電腦 IP, 然後設定 %Disk%:/stunnel/config/stunnel.conf
+for /f "delims=[] tokens=2" %%a in ('ping -4 -n 1 %ComputerName% ^| findstr [') do set NetworkIP=%%a
+REM echo Network IP: %NetworkIP%
+REM Saved in %Disk%:\stunnel\config\stunnel.conf
+@echo off
+REM 建立 stunnel.conf
+@echo [https] &gt; %Disk%:\stunnel\config\stunnel.conf
+REM 附加資料
+@echo accept = %NetworkIP%:443 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo connect = 127.0.0.1:8080 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo TIMEOUTclose = 0 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo cert = %Disk%:\stunnel\config\localhost.crt &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo key = %Disk%:\stunnel\config\localhost.key &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+REM 啟動 stunnel
+可以每次開程式自動改ip
+&lt;/section&gt;
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207400881" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207400881"&gt;2017-03-08_11-08-14&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207400823" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207400823"&gt;2017-03-08_10-43-48&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W2</title><link href="./w2.html" rel="alternate"></link><published>2017-03-01T09:46:00+08:00</published><updated>2017-03-01T09:46:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-01:./w2.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 主機:https://IP/2017springvcp_hw
 帳號:cadlab 密碼:2017springvcp_hw

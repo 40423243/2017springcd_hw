@@ -62,6 +62,9 @@
 <v t="leo.20170226182235.1" a="E"><vh>W2</vh>
 <v t="leo.20170226182235.2"><vh>@edit W2.md</vh></v>
 </v>
+<v t="leo.20170308112430.1" a="E"><vh>W3</vh>
+<v t="leo.20170308112430.2"><vh>@edit W3.md</vh></v>
+</v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
 <v t="yen.20170207091131.2"><vh>ex1 - for 迴圈</vh></v>
@@ -109,6 +112,15 @@
 						
 </t>
 <t tx="leo.20170301094615.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170308112430.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
