@@ -56,14 +56,17 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170301094615.1"><vh>W1</vh>
+<v t="leo.20170301094615.1" a="E"><vh>W1</vh>
 <v t="leo.20170301094615.2"><vh>@edit W1.md</vh></v>
 </v>
 <v t="leo.20170226182235.1" a="E"><vh>W2</vh>
 <v t="leo.20170226182235.2"><vh>@edit W2.md</vh></v>
 </v>
-<v t="leo.20170308112430.1" a="E"><vh>W3</vh>
+<v t="leo.20170308112430.1"><vh>W3</vh>
 <v t="leo.20170308112430.2"><vh>@edit W3.md</vh></v>
+</v>
+<v t="leo.20170315101945.1" a="E"><vh>W4</vh>
+<v t="leo.20170315101945.2"><vh>@edit W4.md</vh></v>
 </v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
@@ -121,6 +124,15 @@
 						
 </t>
 <t tx="leo.20170308112430.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101945.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;

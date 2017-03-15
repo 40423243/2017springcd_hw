@@ -170,13 +170,13 @@ init_mathjax();
 
         <meta name="author" content="40423243" />
         <meta name="keywords" content="使用導引" />
-        <meta name="description" content="心得 主機:https://IP/2017springvcp_hw 帳號:cadlab 密碼:2017springvcp_hw 建ethercalc 錯誤代號cp950解決辦法:utf-8 splitlines:切割 額外 和其他小組員討論得出:如果想要每次都自動開leo就要改路徑，但這樣Stunnel就會打不開，所以也要把Stunnel往上移 2017-03-01 17-18-15 from 40423243 on Vimeo." />
+        <meta name="description" content="心得 主機:https://IP/2017springvcp_hw 帳號:cadlab 密碼:2017springvcp_hw 建ethercalc 錯誤代號cp950解決辦法:utf-8 splitlines:切割 分組座位原始碼 #import os adata = open(&#34;w2b_cadlab.txt&#34;, encoding=&#34;utf-8&#34;).read() #讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼 rdata = open(&#34;w2b_registered.txt&#34;, encoding=&#34;utf-8&#34;).read().splitlines() #print(adata) #用print 先檢查資料是否是我們需要的 alist = adata.splitlines() #利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列 ..." />
 
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="W2"/>
         <meta property="og:url" content="./w2.html"/>
-        <meta property="og:description" content="心得 主機:https://IP/2017springvcp_hw 帳號:cadlab 密碼:2017springvcp_hw 建ethercalc 錯誤代號cp950解決辦法:utf-8 splitlines:切割 額外 和其他小組員討論得出:如果想要每次都自動開leo就要改路徑，但這樣Stunnel就會打不開，所以也要把Stunnel往上移 2017-03-01 17-18-15 from 40423243 on Vimeo."/>
+        <meta property="og:description" content="心得 主機:https://IP/2017springvcp_hw 帳號:cadlab 密碼:2017springvcp_hw 建ethercalc 錯誤代號cp950解決辦法:utf-8 splitlines:切割 分組座位原始碼 #import os adata = open(&#34;w2b_cadlab.txt&#34;, encoding=&#34;utf-8&#34;).read() #讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼 rdata = open(&#34;w2b_registered.txt&#34;, encoding=&#34;utf-8&#34;).read().splitlines() #print(adata) #用print 先檢查資料是否是我們需要的 alist = adata.splitlines() #利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列 ..."/>
         <meta property="article:published_time" content="2017-03-01" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="使用導引" />
@@ -323,6 +323,53 @@ init_mathjax();
 錯誤代號cp950解決辦法:utf-8   splitlines:切割
 </section>
 
+<h3>分組座位原始碼</h3>
+
+<pre class="brush: python">
+#import os
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#用print 先檢查資料是否是我們需要的
+alist = adata.splitlines()
+#利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列
+#print(alist[2])
+n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:
+#從第2列開始, 因為第0列和第1列都不是我們要的
+    row = row + 1
+    blist = stud_num.split("\t")
+    #print(blist)
+    column = 0
+    #為了避免序號連續, 利用column = 0 將順序重製, 因為每一列算完之後要換下一列重新開始
+    for i in range(len(blist)):
+        column = column + 1
+        if blist[i] != "":
+            #print(blist[i])
+            clist = blist[i].split("_")
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+            final_list.append(stud_data)
+            w2_list.append(clist[1])
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)
+#print(os.environ)
+</pre>
+
 <h1>額外</h1>
 
 <p>和其他小組員討論得出:如果想要每次都自動開leo就要改路徑，但這樣Stunnel就會打不開，所以也要把Stunnel往上移
@@ -344,6 +391,11 @@ init_mathjax();
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="./w4.html">
+                            W4
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="./w3.html">
                             W3
                         </a>
@@ -361,11 +413,6 @@ init_mathjax();
                     <li class="list-group-item">
                         <a href="./brython-2d-drawing.html">
                             協同產品設計實習第1週任務
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./intro-fossil-scm.html">
-                            Fossil SCM 簡介
                         </a>
                     </li>
                 </ul>

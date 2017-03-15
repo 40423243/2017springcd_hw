@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:24:00+08:00</updated><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><published>2017-03-08T11:24:00+08:00</published><updated>2017-03-08T11:24:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-08:./w3.html</id><summary type="html">&lt;section&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-03-15T11:24:00+08:00</updated><entry><title>W4</title><link href="./w4.html" rel="alternate"></link><published>2017-03-15T11:24:00+08:00</published><updated>2017-03-15T11:24:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-15:./w4.html</id><summary type="html">&lt;p&gt;1&lt;/p&gt;
+
+&lt;iframe src="../data/W4/1.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2&lt;/p&gt;
+
+&lt;iframe src="../data/W4/2.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;3&lt;/p&gt;
+
+&lt;iframe src="../data/W4/3.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;123&lt;/p&gt;
+
+&lt;iframe src="../data/W4/123.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+https://mde2a2.kmol.info 會有分組倉儲
+
+三種遠端視窗連線協定:
+1. x-windows - Windows 環境中使用 xming, 以 putty 連線後透過 SSH - X11 forwarding localhost:0 可以 xterm&amp;
+2. vnc - http://www.tightvnc.com/
+3. remote desktop - Windows 為內定, Ubuntu 使用 Remmina
+
+分組:https://mde2a2.kmol.info/cdbg(組別)
+然後每個組員都要加入 並且給予每個組員適當的權限
+
+做一個單連桿機構
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W3</title><link href="./w3.html" rel="alternate"></link><published>2017-03-08T11:24:00+08:00</published><updated>2017-03-08T11:24:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-08:./w3.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 今天下雨還有來上課的同學們真是值得嘉許
 https://mde2a1.kmol.info
@@ -34,6 +63,53 @@ REM 啟動 stunnel
 建ethercalc
 錯誤代號cp950解決辦法:utf-8   splitlines:切割
 &lt;/section&gt;
+
+&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
+
+&lt;pre class="brush: python"&gt;
+#import os
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#用print 先檢查資料是否是我們需要的
+alist = adata.splitlines()
+#利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列
+#print(alist[2])
+n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:
+#從第2列開始, 因為第0列和第1列都不是我們要的
+    row = row + 1
+    blist = stud_num.split("\t")
+    #print(blist)
+    column = 0
+    #為了避免序號連續, 利用column = 0 將順序重製, 因為每一列算完之後要換下一列重新開始
+    for i in range(len(blist)):
+        column = column + 1
+        if blist[i] != "":
+            #print(blist[i])
+            clist = blist[i].split("_")
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+            final_list.append(stud_data)
+            w2_list.append(clist[1])
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)
+#print(os.environ)
+&lt;/pre&gt;
 
 &lt;h1&gt;額外&lt;/h1&gt;
 
