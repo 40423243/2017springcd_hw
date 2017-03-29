@@ -68,8 +68,11 @@
 <v t="leo.20170315101945.1" a="E"><vh>W4</vh>
 <v t="leo.20170315101945.2"><vh>@edit W4.md</vh></v>
 </v>
-<v t="leo.20170322114051.1" a="E"><vh>W5</vh>
+<v t="leo.20170322114051.1"><vh>W5</vh>
 <v t="leo.20170322114051.2"><vh>@edit W5.md</vh></v>
+</v>
+<v t="leo.20170329112459.1" a="E"><vh>W6</vh>
+<v t="leo.20170329112459.2"><vh>@edit W6.md</vh></v>
 </v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
@@ -145,6 +148,15 @@
 						
 </t>
 <t tx="leo.20170322114051.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170329112459.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;

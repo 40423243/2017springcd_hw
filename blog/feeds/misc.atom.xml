@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-03-22T11:41:00+08:00</updated><entry><title>W5</title><link href="./w5.html" rel="alternate"></link><published>2017-03-22T11:41:00+08:00</published><updated>2017-03-22T11:41:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-22:./w5.html</id><summary type="html">&lt;section&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:25:00+08:00</updated><entry><title>W6</title><link href="./w6.html" rel="alternate"></link><published>2017-03-29T11:25:00+08:00</published><updated>2017-03-29T11:25:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-29:./w6.html</id><summary type="html">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+1. 全自動的 start.bat 與 stop.bat 設定
+
+2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
+
+3. 使用者可以在近端練習各種 Fossil SCM 的指令與連桿位置 tracking 驗證程式的開發
+
+4. 使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
+
+5. 使用者已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
+
+6. 使用者學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制   關鍵字:v-rep loop closure
+
+7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中.
+
+8. 使用者必須完成以上各階段的操作流程說明與操作影片拍攝, 並透過簡報與網誌完成個人的期中專案報告.
+
+9. 期中考後則陸續完成 Jansen's Linkage 的 OnShape 運動模擬與 V-rep 平台上的 Python Remote API position 與 velocity control simulation
+
+
+畫零件的時候標註尺寸要用變數 這樣才不用一個尺寸一個尺寸改 
+
+&lt;/section&gt;
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/210541380" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210541380"&gt;2017-03-29_11-15-10&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W5</title><link href="./w5.html" rel="alternate"></link><published>2017-03-22T11:41:00+08:00</published><updated>2017-03-22T11:41:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-03-22:./w5.html</id><summary type="html">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
 在協同作業中務必要將每個人的權限分配清楚 (如果不幸把自己權限弄掉可以用SQL救回來) 連結用[]包起來 |後面的就是顯示名稱 建立一個與project name同名的wiki就可以再進去的時候直接到wiki Fossil Wiki的連結形式[url|link note] Markdownlink note Vrep從左上過來依序是:1移動 2旋轉 3遠近 5定位 8移動物件 9選轉物件 不受重力影響: 把馬達拉到BASE下面 然後再把LINK拉進去
 &lt;/section&gt;
