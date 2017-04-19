@@ -61,13 +61,14 @@ ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
 
-&lt;/section&gt;
+利用 &lt;a href="https://github.com/JinJunho/Madeleine.js"&gt;Madeleine 程式庫&lt;/a&gt;, 擷取位於 ./../data/spikeball.stl 位置的零件 stl 格式檔案:
 
-&lt;p&gt;&lt;link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
 &lt;script src="./../data/madeleine/src/lib/stats.js"&gt;&lt;/script&gt;
 &lt;script src="./../data/madeleine/src/lib/detector.js"&gt;&lt;/script&gt;
 &lt;script src="./../data/madeleine/src/lib/three.min.js"&gt;&lt;/script&gt;
-&lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;
+
 &lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
 
 &lt;script&gt;
@@ -82,19 +83,20 @@ window.onload = function(){
 
 &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
 &gt;&lt;/script&gt;
-
 &lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
 &gt;&lt;/script&gt;
-
 &lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
-
 &lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
-
 &lt;div&gt;
 select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
 &lt;/div&gt;
-
 &lt;div id="view"&gt;&lt;/div&gt;
+
+&lt;script src="./../data/madeleine/src/lib/stats.js"&gt;&lt;/script&gt; &lt;script src="./../data/madeleine/src/lib/detector.js"&gt;&lt;/script&gt; &lt;script src="./../data/madeleine/src/lib/three.min.js"&gt;&lt;/script&gt; &lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;
+&lt;script&gt; window.onload = function(){ var madeleine = new Madeleine({ target: 'target', // target div id data: './../data/Fourbar_Walker.stl', // data path path: './../data/madeleine/src/' // path to source directory from current html file }); }; &lt;/script&gt; &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js" &gt;&lt;/script&gt; &lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js" &gt;&lt;/script&gt; &lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt; &lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
+select stl file: or drop stl file
+
+&lt;/section&gt;
 
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/213773873" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213773873"&gt;2017-04-19_08-53-16&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
