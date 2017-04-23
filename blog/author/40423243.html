@@ -324,6 +324,34 @@ ctx ...</script></!--></!--></!--></section>
             </article>
             <hr/>
             <article>
+                <h2><a href="../w8.html">W8</a></h2>
+                <div class="summary"><section>
+利用 <a href="https://github.com/JinJunho/Madeleine.js">Madeleine 程式庫</a>, 擷取位於 ./../data/spikeball.stl 位置的零件 stl 格式檔案:
+
+<link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet">
+<script src="./../data/madeleine/src/lib/stats.js"></script>
+<script src="./../data/madeleine/src/lib/detector.js"></script>
+<script src="./../data/madeleine/src/lib/three.min.js"></script>
+<script src="./../data/madeleine/src/Madeleine.js"></script>
+
+<div id="target" class="madeleine"></div>
+
+<script>
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/Fourbar_Walker.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js ...</section>
+                    <a class="btn btn-default btn-xs" href="../w8.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../w7.html">W7</a></h2>
                 <div class="summary"><section>
 為了協同作業 輸入git rm -r liquid_tags指令 為了配合 軸跟孔要有距離才能轉動 不可以長太扁 不然會分辨不出來是柱狀
@@ -472,6 +500,11 @@ Stunnel就是http的proxy 解決:tiny2017_700MB\data\stunnel\config\stunnel.conf
                         </a>
                     </li>
                     <li class="list-group-item">
+                        <a href="../w8.html">
+                            W8
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="../w7.html">
                             W7
                         </a>
@@ -484,11 +517,6 @@ Stunnel就是http的proxy 解決:tiny2017_700MB\data\stunnel\config\stunnel.conf
                     <li class="list-group-item">
                         <a href="../w5.html">
                             W5
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../w4.html">
-                            W4
                         </a>
                     </li>
                 </ul>
