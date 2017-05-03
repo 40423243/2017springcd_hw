@@ -77,11 +77,14 @@
 <v t="leo.20170405111932.1"><vh>W7</vh>
 <v t="leo.20170405111932.2"><vh>@edit W7.md</vh></v>
 </v>
-<v t="leo.20170419090013.1"><vh>W10</vh>
-<v t="leo.20170419090013.2"><vh>@edit W10.md</vh></v>
+<v t="leo.20170419090013.1" a="E"><vh>W9</vh>
+<v t="leo.20170419090013.2"><vh>@edit W9.md</vh></v>
 </v>
-<v t="leo.20170426113920.1" a="E"><vh>W11</vh>
-<v t="leo.20170426113920.2"><vh>@edit W11.md</vh></v>
+<v t="leo.20170426113920.1" a="E"><vh>W10</vh>
+<v t="leo.20170426113920.2"><vh>@edit W10.md</vh></v>
+</v>
+<v t="leo.20170503105629.1" a="E"><vh>W11</vh>
+<v t="leo.20170503105629.2"><vh>@edit W11.md</vh></v>
 </v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
@@ -193,6 +196,15 @@
 						
 </t>
 <t tx="leo.20170426113920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170503105629.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
