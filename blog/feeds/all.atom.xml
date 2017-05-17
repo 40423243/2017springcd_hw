@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-03T10:55:00+08:00</updated><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2017-05-03T10:55:00+08:00</published><updated>2017-05-03T10:55:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-05-03:./w11.html</id><summary type="html">&lt;section&gt;
-前一周碰到一個問題是測試用的BLOG沒刪乾淨導致BLOG無法更新且分支模板錯誤
-本來想說要用還原版次解決但是最後在git pull的時候又回到死胡同 MD檔和HTML檔會一直跑回來
-就算是把舊版本拉出來再重新蓋回去也不行
-會顯示版本跟不上
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-17T09:00:00+08:00</updated><entry><title>W13</title><link href="./w13.html" rel="alternate"></link><published>2017-05-17T09:00:00+08:00</published><updated>2017-05-17T09:00:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-05-17:./w13.html</id><summary type="html">&lt;section&gt;
+想要解決干涉問題就必須要考慮到模數和角度的配合(180/尺數)
+如果齒輪不是在水平或垂直位置上就要再加上位置的角度
+&lt;/section&gt;
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/217769922" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/217769922"&gt;2017-05-17_10-20-39&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>W12</title><link href="./w12.html" rel="alternate"></link><published>2017-05-10T11:55:00+08:00</published><updated>2017-05-10T11:55:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-05-10:./w12.html</id><summary type="html">&lt;section&gt;
+這周的齒輪嚙合在兩個齒輪內都沒有問題
+三個齒輪以上就會產生干涉
+&lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2017-05-03T10:55:00+08:00</published><updated>2017-05-03T10:55:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-05-03:./w11.html</id><summary type="html">&lt;section&gt;
+前一周碰到一個問題是測試用的BLOG沒刪乾淨導致BLOG無法更新﹐且分支模板錯誤﹐
+本來想說要用還原版次解決但是最後在git pull的時候又回到死胡同﹐ MD檔和HTML檔會一直跑回來﹐
+就算是把舊版本拉出來再重新蓋回去也不行﹐
+會顯示版本跟不上﹐
 最後解決辦法是把BLOG創回來 導回MD檔 再重刪 就可以成功解決了!
 
 今天看3個PDF
+一.比較指令:版本管理
+二.跟隨模式:遠端同步
+三.匯入/導入DXF檔案:DXF和DWG檔案
+四.捷徑工具列:捷徑工具列讓使用指令變的更方便
+五.加入評論:線上討論作品的問題或細節處理
+六.插入時的快照模式:更快建立組裝件
+七.查驗插入零件:取代原有的零件,可以省去一開始要配對零件的時間
+八.多重瀏覽器標籤:可以同步處理好幾個不同的零件或組裝程序,不用到處找檔案
+九.捲動到此/捲動到尾端:特徵上點右鍵按Roll to here(捲動到此)的指令,系統就會把特徵清單尾端定在這裡,當修改完畢時就在特徵列上按Roll to end
+十.導入檔案時按著Shift來點選檔案:按著Shift點第一個檔案再點最後一個檔案,全部的檔案都會被選取,就可以同時導入多個檔案
+
 &lt;/section&gt;</summary><category term="使用導引"></category></entry><entry><title>W10</title><link href="./w10.html" rel="alternate"></link><published>2017-04-26T11:35:00+08:00</published><updated>2017-04-26T11:35:00+08:00</updated><author><name>40423243</name></author><id>tag:,2017-04-26:./w10.html</id><summary type="html">&lt;section&gt;
 今天看到期中成果感覺很不錯
 &lt;/section&gt;
