@@ -89,8 +89,14 @@
 <v t="leo.20170517085744.1" a="E"><vh>W12</vh>
 <v t="leo.20170517085744.2"><vh>@edit W12.md</vh></v>
 </v>
-<v t="leo.20170517090037.1" a="E"><vh>W13</vh>
+<v t="leo.20170517090037.1"><vh>W13</vh>
 <v t="leo.20170517090037.2"><vh>@edit W13.md</vh></v>
+</v>
+<v t="leo.20170531085921.1" a="E"><vh>W14</vh>
+<v t="leo.20170531085921.2"><vh>@edit W14.md</vh></v>
+</v>
+<v t="leo.20170531085905.1" a="E"><vh>W15</vh>
+<v t="leo.20170531085905.2"><vh>@edit W15.md</vh></v>
 </v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
@@ -229,6 +235,24 @@
 						
 </t>
 <t tx="leo.20170517090037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170531085905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170531085921.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;

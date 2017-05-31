@@ -282,6 +282,54 @@ init_mathjax();
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="../w15.html">W15</a></h2>
+                <div class="summary"><p>利用漸開線原理, 以 Brython 繪製單一正齒輪廓:</p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 繪圖-->
+
+<canvas id="onegear" width="800" height="600"></canvas>
+
+<div id="onegear_div" width="800" height="20"></div>
+
+<script type="text/python3">
+from browser import document as doc
+import math
+# deg 為角度轉為徑度的轉換因子
+deg = math.pi/180.
+# 定義 Spur 類別
+class Spur(object):
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+    def create_line(self, x1, y1, x2 ...</script></!--></!--></!-->
+                    <a class="btn btn-default btn-xs" href="../w15.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../w14.html">W14</a></h2>
+                <div class="summary"><section>
+拆主機
+</section>
+                    <a class="btn btn-default btn-xs" href="../w14.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../w13.html">W13</a></h2>
                 <div class="summary"><section>
 想要解決干涉問題就必須要考慮到模數和角度的配合(180/尺數)
@@ -422,58 +470,6 @@ login 帳號 pw 密碼 cap 權限 fossil update fossil clone 網址 cdw7.fossil 
                 </div>
             </article>
             <hr/>
-            <article>
-                <h2><a href="../w4.html">W4</a></h2>
-                <div class="summary"><p>1</p>
-
-<iframe src="../data/W4/1.html" width="800" height="480"></iframe>
-
-<p>2</p>
-
-<iframe src="../data/W4/2.html" width="800" height="480"></iframe>
-
-<p>3</p>
-
-<iframe src="../data/W4/3.html" width="800" height="480"></iframe>
-
-<p>123</p>
-
-<iframe src="../data/W4/123.html" width="800" height="480"></iframe>
-
-<section>
-<h1>心得</h1>
-https://mde2a2.kmol.info 會有分組倉儲
-
-三種遠端視窗連線協定:
-1. x-windows - Windows 環境中使用 xming, 以 putty 連線後透過 SSH - X11 forwarding localhost:0 可以 xterm&
-2. vnc - http://www.tightvnc.com/
-3. remote desktop - Windows 為內定, Ubuntu 使用 Remmina
-
-分組:https://mde2a2.kmol.info/cdbg(組別)
-然後每個組員都要加入 並且給予每個組員適當的權限
-
-做一個單連桿機構
-</section>
-                    <a class="btn btn-default btn-xs" href="../w4.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../w3.html">W3</a></h2>
-                <div class="summary"><section>
-<h1>心得</h1>
-今天下雨還有來上課的同學們真是值得嘉許
-https://mde2a1.kmol.info
-加入:REM 取得電腦 IP, 然後設定 %Disk%:/stunnel/config/stunnel.conf
-for /f "delims=[] tokens=2" %%a in ('ping -4 -n 1 %ComputerName% ^| findstr [') do set NetworkIP=%%a
-REM echo Network IP: %NetworkIP%
-REM Saved in %Disk%:\stunnel\config\stunnel.conf
-@echo off
-REM 建立 ...</section>
-                    <a class="btn btn-default btn-xs" href="../w3.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
         <ul class="pagination">
                 <li class="prev disabled"><a href="#">&laquo;</a></li>
@@ -494,6 +490,16 @@ REM 建立 ...</section>
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="../w15.html">
+                            W15
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="../w14.html">
+                            W14
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="../w13.html">
                             W13
                         </a>
@@ -506,16 +512,6 @@ REM 建立 ...</section>
                     <li class="list-group-item">
                         <a href="../w11.html">
                             W11
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../w10.html">
-                            W10
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../w9.html">
-                            W9
                         </a>
                     </li>
                 </ul>
