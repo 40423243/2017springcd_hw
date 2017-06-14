@@ -284,9 +284,29 @@ init_mathjax();
                 <h2><a href="./w17.html">W17</a></h2>
                 <div class="summary"><p>W17</p>
 
-<iframe src="../data/W17.png" width="800" height="480"></iframe>
+<iframe src="../data/W17/W17-1.png" width="800" height="480"></iframe>
 
-</section>
+<p>3D</p>
+
+<iframe src="../data/W17/W17.html" width="800" height="480"></iframe>
+
+<p>from browser import document
+import math</p>
+<h1>準備繪圖畫布</h1>
+<p>'''
+canvas = document["canvas1"]
+ctx = canvas.getContext("2d")
+'''</p>
+<p>def axises(ctx):
+    ctx.beginPath()
+    # 設定線的寬度為 5 個單位
+    ctx.lineWidth = 5
+    # 將畫筆移動到 (0, 0) 座標點
+    ctx.moveTo(0, 0)
+    # 然後畫直線到 (100, 0) 座標點
+    ctx.strokeStyle = "red"
+    ctx.lineTo(100, 0)
+    ctx.lineTo(90, 10 ...</p>
                     <a class="btn btn-default btn-xs" href="./w17.html">more ...</a>
                 </div>
             </article>
