@@ -11,3 +11,7 @@ https://mdecourse.github.io/2017springcd/blog
 簡報: https://40423243.github.io/2017springcd_hw
 
 網誌: https://40423243.github.io/2017springcd_hw/blog
+
+Vimeo:https://vimeo.com/user45620934
+
+Youtube:https://www.youtube.com/channel/UC4a3cRUuIjpy8W3QS2azCBQ
