@@ -28,27 +28,227 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
-<v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170621084919.1" a="E"><vh>slides div</vh>
+<v t="leo.20170621084919.2"><vh>各式內容引用範例</vh>
+<v t="leo.20170621084919.3" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20170621084919.4"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170621084919.5" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20170621084919.6"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170621084919.7" a="E"><vh>導入影片</vh>
+<v t="leo.20170621084919.8"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170621084919.9"><vh>封面投影片</vh>
+<v t="leo.20170621084919.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20170621084919.11"><vh>快捷鍵</vh>
+<v t="leo.20170621084919.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170621084919.13"><vh>20170222第一週上課筆記</vh>
+<v t="leo.20170621084919.14" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.15"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.40" a="E"><vh>影片</vh>
+<v t="leo.20170621084919.41"><vh>第一週心得影片</vh></v>
+</v>
+<v t="leo.20170621085341.1" a="E"><vh>影片</vh>
+<v t="leo.20170621085341.2"><vh>第一週心得影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.44"><vh>20170301第二週上課筆記</vh>
+<v t="leo.20170621084919.45" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.46"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.69" a="E"><vh>影片</vh>
+<v t="leo.20170621084919.70"><vh>第二週心得影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.71"><vh>20170308第三週上課筆記</vh>
+<v t="leo.20170621085644.1" a="E"><vh>影片任務二</vh>
+<v t="leo.20170621085644.2"><vh>第三週心得影片</vh></v>
+</v>
+<v t="leo.20170621085641.1" a="E"><vh>影片任務二</vh>
+<v t="leo.20170621085641.2"><vh>第三週心得影片</vh></v>
+</v>
+<v t="leo.20170621084919.72" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.73"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.118" a="E"><vh>影片任務二</vh>
+<v t="leo.20170621084919.119"><vh>第三週心得影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.124" a="E"><vh>20170315第四週上課筆記</vh>
+<v t="leo.20170621084919.125" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.126"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.151" a="E"><vh>20170322第五週上課筆記</vh>
+<v t="leo.20170621084919.152" a="E"><vh>上課筆記</vh>
+<v t="leo.20170621084919.153"><vh>上課筆記</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.198" a="E"><vh>20170329第六週上課筆記</vh>
+<v t="leo.20170621084919.199" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.200"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.219" a="E"><vh>影片</vh>
+<v t="leo.20170621084919.220"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.221" a="E"><vh>20170405第七週上課筆記</vh>
+<v t="leo.20170621084919.222" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.223"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.242" a="E"><vh>影片1</vh>
+<v t="leo.20170621084919.243"><vh>影片</vh></v>
+</v>
+<v t="leo.20170621084919.244" a="E"><vh>影片2</vh>
+<v t="leo.20170621084919.245"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.257" a="E"><vh>20170405第九週上課筆記</vh>
+<v t="leo.20170621090602.1" a="E"><vh>影片</vh>
+<v t="leo.20170621090602.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170621090601.1" a="E"><vh>影片</vh>
+<v t="leo.20170621090601.2"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.262"><vh>20170405第十週上課筆記</vh>
+<v t="leo.20170621084919.277" a="E"><vh>影片</vh>
+<v t="leo.20170621084919.278"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.279" a="E"><vh>20170405第十一週上課筆記</vh>
+<v t="leo.20170621084919.280" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.281"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.292" a="E"><vh>20170405第十二週上課筆記</vh>
+<v t="leo.20170621084919.293" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.294"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.303" a="E"><vh>20170405第十三週上課筆記</vh>
+<v t="leo.20170621084919.304" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.305"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.318" a="E"><vh>影片</vh>
+<v t="leo.20170621084919.319"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.324" a="E"><vh>20170405第十四週上課筆記</vh>
+<v t="leo.20170621084919.325" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.326"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.327" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.328"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.329" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.330"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.331" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.332"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.333"><vh>上課內容</vh>
+<v t="leo.20170621084919.334"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.335"><vh>上課內容</vh>
+<v t="leo.20170621084919.336"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.337"><vh>上課內容</vh>
+<v t="leo.20170621084919.338"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.339"><vh>上課內容</vh>
+<v t="leo.20170621084919.340"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.341"><vh>上課內容</vh>
+<v t="leo.20170621084919.342"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.343"><vh>上課內容</vh>
+<v t="leo.20170621084919.344"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.345"><vh>上課內容</vh>
+<v t="leo.20170621084919.346"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.347"><vh>上課內容</vh>
+<v t="leo.20170621084919.348"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.349"><vh>上課內容</vh>
+<v t="leo.20170621084919.350"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.351"><vh>上課內容</vh>
+<v t="leo.20170621084919.352"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.353"><vh>上課內容</vh>
+<v t="leo.20170621084919.354"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.355"><vh>上課內容</vh>
+<v t="leo.20170621084919.356"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.357"><vh>上課內容</vh>
+<v t="leo.20170621084919.358"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.359"><vh>上課內容</vh>
+<v t="leo.20170621084919.360"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.361"><vh>上課內容</vh>
+<v t="leo.20170621084919.362"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.363"><vh>上課內容</vh>
+<v t="leo.20170621084919.364"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.365"><vh>上課內容</vh>
+<v t="leo.20170621084919.366"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.369" a="E"><vh>20170405第十五週上課筆記</vh>
+<v t="leo.20170621084919.370" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.371"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.372" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.373"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.374" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.375"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.376" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.377"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.378" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.379"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.380" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.381"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.382" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.383"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.384" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.385"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.390" a="E"><vh>20170405第十六週上課筆記</vh>
+<v t="leo.20170621084919.391" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.392"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.393" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.394"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170621084919.395" a="E"><vh>20170405第十八週上課筆記</vh>
+<v t="leo.20170621084919.396" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.397"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084919.398" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084919.399"><vh>上課大綱</vh></v>
 </v>
 </v>
 </v>
@@ -57,43 +257,43 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170301094615.1" a="E"><vh>W1</vh>
+<v t="leo.20170301094615.1"><vh>W1</vh>
 <v t="leo.20170301094615.2"><vh>@edit W1.md</vh></v>
 </v>
-<v t="leo.20170226182235.1" a="E"><vh>W2</vh>
+<v t="leo.20170226182235.1"><vh>W2</vh>
 <v t="leo.20170226182235.2"><vh>@edit W2.md</vh></v>
 </v>
-<v t="leo.20170308112430.1" a="E"><vh>W3</vh>
+<v t="leo.20170308112430.1"><vh>W3</vh>
 <v t="leo.20170308112430.2"><vh>@edit W3.md</vh></v>
 </v>
-<v t="leo.20170315101945.1"><vh>W4</vh>
+<v t="leo.20170315101945.1" a="E"><vh>W4</vh>
 <v t="leo.20170315101945.2"><vh>@edit W4.md</vh></v>
 </v>
 <v t="leo.20170322114051.1"><vh>W5</vh>
 <v t="leo.20170322114051.2"><vh>@edit W5.md</vh></v>
 </v>
-<v t="leo.20170329112459.1" a="E"><vh>W6</vh>
+<v t="leo.20170329112459.1"><vh>W6</vh>
 <v t="leo.20170329112459.2"><vh>@edit W6.md</vh></v>
 </v>
-<v t="leo.20170405111932.1" a="E"><vh>W7</vh>
+<v t="leo.20170405111932.1"><vh>W7</vh>
 <v t="leo.20170405111932.2"><vh>@edit W7.md</vh></v>
 </v>
-<v t="leo.20170419090013.1" a="E"><vh>W9</vh>
+<v t="leo.20170419090013.1"><vh>W9</vh>
 <v t="leo.20170419090013.2"><vh>@edit W9.md</vh></v>
 </v>
-<v t="leo.20170426113920.1" a="E"><vh>W10</vh>
+<v t="leo.20170426113920.1"><vh>W10</vh>
 <v t="leo.20170426113920.2"><vh>@edit W10.md</vh></v>
 </v>
-<v t="leo.20170503105629.1" a="E"><vh>W11</vh>
+<v t="leo.20170503105629.1"><vh>W11</vh>
 <v t="leo.20170503105629.2"><vh>@edit W11.md</vh></v>
 </v>
-<v t="leo.20170517085744.1" a="E"><vh>W12</vh>
+<v t="leo.20170517085744.1"><vh>W12</vh>
 <v t="leo.20170517085744.2"><vh>@edit W12.md</vh></v>
 </v>
-<v t="leo.20170517090037.1" a="E"><vh>W13</vh>
+<v t="leo.20170517090037.1"><vh>W13</vh>
 <v t="leo.20170517090037.2"><vh>@edit W13.md</vh></v>
 </v>
-<v t="leo.20170531085921.1" a="E"><vh>W14</vh>
+<v t="leo.20170531085921.1"><vh>W14</vh>
 <v t="leo.20170531085921.2"><vh>@edit W14.md</vh></v>
 </v>
 <v t="leo.20170531085905.1" a="E"><vh>W15</vh>
@@ -279,6 +479,1096 @@
 
 						
 </t>
+<t tx="leo.20170621084919.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170621084919.10">## 2017Spring 協同產品設計實習  40423243
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40423243](https://40423243.github.io/2017springcd_hw/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170621084919.11">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084919.118">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084919.119">##任務二影片
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207404538" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207404538"&gt;2017-03-08_12-02-22&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170621084919.12"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170621084919.124">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.125">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.126">#第四週上課筆記
+
+##三種遠端視窗連線協定:
+1. x-windows - Windows 環境中使用 xming, 以 putty 連線後透過 SSH - X11 forwarding localhost:0 可以 xterm&amp;
+2. vnc - http://www.tightvnc.com/
+3. remote desktop - Windows 為內定, Ubuntu 使用 Remmina
+
+分組:https://mde2a2.kmol.info/cdbg(組別)
+然後每個組員都要加入 並且給予每個組員適當的權限</t>
+<t tx="leo.20170621084919.13">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.15">#第一週上課筆記
+
+##Stunnel就是http的proxy 解決:tiny2017_700MB\data\stunnel\config\stunnel.conf拉出來 (有分號都是註記) 改ip(ipconfig /all)(443不改) proxy的例外加上自己的ip 去http://192.168.1.24/2017springvcp_hw 下載fourbar_eightbar_solvespace_vrep.7z和onelink_vrep_remoteapi_pos_vel.7z</t>
+<t tx="leo.20170621084919.151">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.152">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.153">#第五週上課筆記
+
+##在協同作業中務必要將每個人的權限分配清楚 (如果不幸把自己權限弄掉可以用SQL救回來) 連結用[]包起來 |後面的就是顯示名稱 建立一個與project name同名的wiki就可以再進去的時候直接到wiki Fossil Wiki的連結形式[url|link note] Markdownlink note Vrep從左上過來依序是:1移動 2旋轉 3遠近 5定位 8移動物件 9選轉物件 不受重力影響: 把馬達拉到BASE下面 然後再把LINK拉進去</t>
+<t tx="leo.20170621084919.198">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.199">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.2">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170621084919.200">#第六週上課筆記
+
+##1. 全自動的 start.bat 與 stop.bat 設定
+
+2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
+
+3. 使用者可以在近端練習各種 Fossil SCM 的指令與連桿位置 tracking 驗證程式的開發
+
+4. 使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
+
+5. 使用者已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
+
+6. 使用者學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制   關鍵字:v-rep loop closure
+
+7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中.
+
+8. 使用者必須完成以上各階段的操作流程說明與操作影片拍攝, 並透過簡報與網誌完成個人的期中專案報告.
+
+9. 期中考後則陸續完成 Jansen's Linkage 的 OnShape 運動模擬與 V-rep 平台上的 Python Remote API position 與 velocity control simulation
+
+
+畫零件的時候標註尺寸要用變數 這樣才不用一個尺寸一個尺寸改</t>
+<t tx="leo.20170621084919.219">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.220">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/210541380" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210541380"&gt;2017-03-29_11-15-10&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621084919.221">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.222">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.223">#第七週上課筆記
+
+##為了協同作業 輸入git rm -r liquid_tags指令 為了配合 軸跟孔要有距離才能轉動 不可以長太扁 不然會分辨不出來是柱狀
+
+login 帳號 pw 密碼 cap 權限 fossil update fossil clone 網址 cdw7.fossil dir mkdir cdw7 cd wd mkdir cdw7 cd wd fossil open ./../../cdw7.fossil fossil add . fossil remote-url off fossil commit -m "commit message" fossil push https://user@192.168.1.36 key-in user password to complete push</t>
+<t tx="leo.20170621084919.242">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.243">
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/211611480" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211611480"&gt;2017-04-05_10-42-45&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621084919.244">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.245">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/212840986" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212840986"&gt;2017-04-05_22-59-30&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621084919.257">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.262">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.277">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.278">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/214780628" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214780628"&gt;2017-04-26_11-03-53&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170621084919.279">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.280">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.281">#第十一週上課筆記
+
+##前一周碰到一個問題是測試用的BLOG沒刪乾淨導致BLOG無法更新﹐且分支模板錯誤﹐
+本來想說要用還原版次解決但是最後在git pull的時候又回到死胡同﹐ MD檔和HTML檔會一直跑回來﹐
+就算是把舊版本拉出來再重新蓋回去也不行﹐
+會顯示版本跟不上﹐
+最後解決辦法是把BLOG創回來 導回MD檔 再重刪 就可以成功解決了!
+
+今天看3個PDF
+一.比較指令:版本管理
+二.跟隨模式:遠端同步
+三.匯入/導入DXF檔案:DXF和DWG檔案
+四.捷徑工具列:捷徑工具列讓使用指令變的更方便
+五.加入評論:線上討論作品的問題或細節處理
+六.插入時的快照模式:更快建立組裝件
+七.查驗插入零件:取代原有的零件,可以省去一開始要配對零件的時間
+八.多重瀏覽器標籤:可以同步處理好幾個不同的零件或組裝程序,不用到處找檔案
+九.捲動到此/捲動到尾端:特徵上點右鍵按Roll to here(捲動到此)的指令,系統就會把特徵清單尾端定在這裡,當修改完畢時就在特徵列上按Roll to end
+十.導入檔案時按著Shift來點選檔案:按著Shift點第一個檔案再點最後一個檔案,全部的檔案都會被選取,就可以同時導入多個檔案</t>
+<t tx="leo.20170621084919.292">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.293">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.294">#第十二週上課筆記
+
+##這周的齒輪嚙合在兩個齒輪內都沒有問題
+三個齒輪以上就會產生干涉
+
+
+</t>
+<t tx="leo.20170621084919.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.303">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.304">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.305">#第十三週上課筆記
+
+##想要解決干涉問題就必須要考慮到模數和角度的配合(180/尺數)
+如果齒輪不是在水平或垂直位置上就要再加上位置的角度
+
+</t>
+<t tx="leo.20170621084919.318">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.319">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/217769922" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/217769922"&gt;2017-05-17_10-20-39&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621084919.324">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.325">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.326">#第十四週上課筆記
+
+##利用虛擬主機架設Ubuntu Server 16.04.2
+
+
+</t>
+<t tx="leo.20170621084919.327">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.328">##由於沒有實體電腦，因此選擇虛擬主機來練習
+
+
+</t>
+<t tx="leo.20170621084919.329">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.330">####啟動掛載好Ubuntu Server後，即可啟動虛擬電腦，一開始會選擇語言，選擇『English』
+
+&lt;img src="data/W14/Linux Language.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170621084919.331">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.332">####開始安裝，選擇『Install Ubuntu Server』
+
+&lt;img src="data/W14/Install Ununtu Server.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170621084919.333">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.334">#### 選擇安裝過程的語言，選擇『English』，接著選『United States』
+
+&lt;img src="data/W14/Linux United States.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.335">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.336">####接著會偵測鍵盤排列方式，選『No』，接著選擇鍵盤的配置，也都是選擇『English』
+
+&lt;img src="data/W14/Linux Detect keyborad.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.337">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.338">####接著設定系統的主機名稱
+
+&lt;img src="data/W14/Linux Hostname.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.339">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.340">####接著設定使用者完整名稱
+
+&lt;img src="data/W14/Linux username.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.341">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.342">####設定使用者帳號
+
+&lt;img src="data/W14/Linux username account.png" width="700" /&gt;
+</t>
+<t tx="leo.20170621084919.343">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.344">####設定使用者密碼
+
+&lt;img src="data/W14/Linux username password.png" width="700" /&gt;
+</t>
+<t tx="leo.20170621084919.345">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.346">####設置完後系統會問你密碼要設置得如此簡單嗎，選擇『Yes』
+
+&lt;img src="data/W14/Linux weak password.png" width="700" /&gt;
+</t>
+<t tx="leo.20170621084919.347">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.348">####確認時區『Asia / Taipei』是否正確
+
+&lt;img src="data/W14/Linux time zone.png" width="700" /&gt;
+</t>
+<t tx="leo.20170621084919.349">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.350">####選擇『Guided - use entire disk and set up LVM
+
+&lt;img src="data/W14/Linux enyire disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.351">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.352">####選擇磁碟
+
+&lt;img src="data/W14/Linux Select disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.353">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.354">####是否寫入變更到磁碟，選擇『Yes』
+
+&lt;img src="data/W14/Linux configure LVM.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.355">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.356">####設定分割區的空間容量
+
+&lt;img src="data/W14/Linux Partition disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.357">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.358">####確認磁碟配置無誤，選擇『Yes』
+
+&lt;img src="data/W14/Linux 確認磁碟配置.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.359">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.360">####設定 HTTP proxy，這裡不填寫
+
+&lt;img src="data/W14/Linux HTTP proxy.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170621084919.361">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.362">####是否自動更新系統，選擇『No automatic updates』
+
+&lt;img src="data/W14/Linux no updates.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.363">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.364">####是否要安裝其他軟體，選擇『OpenSSH server』;接著安裝 GRUB 開機選單
+
+&lt;img src="data/W14/Linux GRUB boot.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.365">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.366">####接著選擇不加密，安裝即完畢，電腦會退出光碟，接著即可登入server
+
+&lt;img src="data/W14/Linux  finish.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.369">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.370">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.371">#第十五週上課筆記
+
+###利用brython繪製正齒輪以及半尺型的正齒輪，接著利用submodule繪製齒輪組，並在Onshape中繪製再一遍齒輪組，並將過程紀錄。
+
+
+</t>
+<t tx="leo.20170621084919.372">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.373">##1. 請以 W15 練習為網誌標題, 800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒的漸開線正齒輪輪廓.
+
+</t>
+<t tx="leo.20170621084919.374">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.375">&lt;img src="data/W15/spur_gear.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170621084919.376">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.377">####2. 完成後, 請在正齒輪中央寫上自己的學號, 並建立第二個 800x600 的畫布, 請畫出只有上半齒形的漸開線正齒輪輪廓 , 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號.
+</t>
+<t tx="leo.20170621084919.378">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.379">&lt;img src="data/W15/self_spur_gear.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.380">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.381">####3. 請各學員在各自 github 倉儲中的 data/py 目錄中, 編寫一個可以採圓心座標, 節圓半徑, 齒數, 壓力角與定位角度作為輸入的齒輪程式函式, 交由組長從各組員的 submodule 設定中呼叫導入, 以便在各分組的網頁中完成一個畫出所有組員協同繪圖的齒輪減速組圖, 且各齒輪正中心必須寫上組員學號, 各組按照學號大小排序, 分別由最右邊齒數 16 齒開始囓合, 依序增加 2 齒, 當排至平面四齒囓合後, 第五位組員則以垂直方向向下囓合兩個齒輪後, 轉由右至左水平排列, 直至所有組員均各提供一個協同囓合用的齒輪為止.
+
+</t>
+<t tx="leo.20170621084919.382">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.383">&lt;img src="data/W15/spur_gears.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170621084919.384">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.385">##4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.
+
+##齒輪組連結：&lt;a href="https://cad.onshape.com/documents/998bf3dc53b731d62db8fb27/w/aec61dc14ccd5605bc5b5707/e/48c83701832f463be35a0c66"&gt;齒輪組&lt;/a&gt;
+</t>
+<t tx="leo.20170621084919.390">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.391">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.392">#第十六週上課筆記
+
+##練習如何遠端連結Fossil伺服器
+
+</t>
+<t tx="leo.20170621084919.393">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.394">##老師第一節課介紹如何利用Xming連結Fossil伺服器
+
+##第二節讓我們去聆聽學長們的專題報告
+
+##第三四節的報告延至下週
+</t>
+<t tx="leo.20170621084919.395">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.396">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.397">#第十八週上課筆記
+
+
+
+</t>
+<t tx="leo.20170621084919.398">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.399">https://vimeo.com/user45620934
+https://www.youtube.com/my_videos?o=U
+
+
+</t>
+<t tx="leo.20170621084919.4"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170621084919.40">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084919.41">##第一週心得影片
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/205751049" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/205751049"&gt;2017-02-26 18-04-47&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170621084919.44">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.45">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.46">#第二週上課筆記
+
+##主機:https://IP/2017springvcp_hw
+帳號:cadlab 密碼:2017springvcp_hw
+建ethercalc
+錯誤代號cp950解決辦法:utf-8   splitlines:切割
+
+##額外:和其他小組員討論得出:如果想要每次都自動開leo就要改路徑，但這樣Stunnel就會打不開，所以也要把Stunnel往上移
+</t>
+<t tx="leo.20170621084919.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.6">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20170621084919.69">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084919.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084919.70">##第二週心得影片
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/206204967" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206204967"&gt;2017-03-01 17-18-15&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621084919.71">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084919.72">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084919.73">#第三週上課筆記
+
+##加入:REM 取得電腦 IP, 然後設定 %Disk%:/stunnel/config/stunnel.conf
+for /f "delims=[] tokens=2" %%a in ('ping -4 -n 1 %ComputerName% ^| findstr [') do set NetworkIP=%%a
+REM echo Network IP: %NetworkIP%
+REM Saved in %Disk%:\stunnel\config\stunnel.conf
+@echo off
+REM 建立 stunnel.conf
+@echo [https] &gt; %Disk%:\stunnel\config\stunnel.conf
+REM 附加資料
+@echo accept = %NetworkIP%:443 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo connect = 127.0.0.1:8080 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo TIMEOUTclose = 0 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo cert = %Disk%:\stunnel\config\localhost.crt &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo key = %Disk%:\stunnel\config\localhost.key &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+REM 啟動 stunnel
+可以每次開程式自動改ip</t>
+<t tx="leo.20170621084919.8">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170621084919.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621085341.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621085341.2">##第一週心得影片
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/205751032" width="640" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/205751032"&gt;2017-02-26 17-39-45&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170621085641.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621085641.2">##任務二影片
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207400823" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207400823"&gt;2017-03-08_10-43-48&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621085644.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621085644.2">##任務二影片
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207400881" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207400881"&gt;2017-03-08_11-08-14&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621090601.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621090601.2">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/213781332" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213781332"&gt;2017-04-19_09-48-01&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621090602.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621090602.2">&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/213773873" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213773873"&gt;2017-04-19_08-53-16&lt;/a&gt; from &lt;a href="https://vimeo.com/user45620934"&gt;40423243&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -432,91 +1722,6 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -588,42 +1793,6 @@ make.start()
 @others
 &lt;/div&gt;
 
-</t>
-<t tx="yen.20170120110024.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習  40423243
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40423243](https://40423243.github.io/2017springcd_hw/blog/)
-&lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
-
-
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
